@@ -24,3 +24,19 @@ news:x:9:
 [user]@[user]:~$ cat /etc/group | grep -i sudo
 sudo:x:27:[user]
 [user]@[user]:~$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
