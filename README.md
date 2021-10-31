@@ -1,4 +1,4 @@
-# Curso-linux-terminal
+# Curso Linux Terminal
 
 
 ## Linux , Sudo, Operative System & Terminal Course:
