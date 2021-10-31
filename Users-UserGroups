@@ -11,17 +11,17 @@
 # Commands:
 
 
-square@square:~$ cat /etc/group | head -10
+[user]@[user]:~$ cat /etc/group | head -10
 root:x:0:
 daemon:x:1:
 bin:x:2:
 sys:x:3:
-adm:x:4:syslog,square
+adm:x:4:syslog,[user]
 tty:x:5:
 disk:x:6:
 lp:x:7:
 mail:x:8:
 news:x:9:
-square@square:~$ cat /etc/group | grep -i sudo
-sudo:x:27:square
-square@square:~$ 
+[user]@[user]:~$ cat /etc/group | grep -i sudo
+sudo:x:27:[user]
+[user]@[user]:~$ 
