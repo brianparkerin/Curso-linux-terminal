@@ -1,0 +1,14 @@
+
+Linux: Actualizar paquetes a su última versión
+
+1. Abre la Terminal (Control + Alt + T)
+2. Teclea (sin comillas) "sudo apt-get update" y pulsa enter.
+3. Ahora repite con "sudo apt-get upgrade"
+4. Cuando termine la instalación, reinicia tu PC.
+
+
+
+
+
+
+
