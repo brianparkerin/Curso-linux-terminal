@@ -5,13 +5,41 @@ Resources &amp; Tutorials for Linux Course
 
 
 
+Comandos Basicos:
+
+MAS DE 30 COMANDOS en LINUX para manejar tu SERVER!
+https://www.youtube.com/watch?v=0BA4k3jweaE
+
+
 
 
 ```
 
-# Administración de Logs en Linux:
+# Administración de Logs & procesos en Linux:
 https://www.youtube.com/watch?v=fPKjbqFQypg&t=24s
 
+Administración de procesos en Linux: Uso de comandos fg, bg, jobs, ps, kill, top, uptime, free, nice
+https://www.youtube.com/watch?v=gExUhQb0CNA
+
+
+
+
+```
+```
+
+# Permisos, usuarios y grupos en Linux. (Administración básica):
+
+Creación Usuarios y Grupos en Linux
+https://www.youtube.com/watch?v=11JEsI2J_Q4
+
+Permisos, usuarios y grupos en Linux. (Administración básica)
+https://www.youtube.com/watch?v=KhbM0BQ3_ew
+
+Crear usuarios/grupos/carpetas/accesos directos y crear carpetas con permisos en LINUX - Ubuntu
+https://www.youtube.com/watch?v=XV6AyNJcMBg
+
+**/Modificar un grupo y un usuario de Linux/**
+https://www.youtube.com/watch?v=V0tazsZG4MQ
 
 
 
@@ -24,6 +52,8 @@ https://www.youtube.com/watch?v=fPKjbqFQypg&t=24s
 https://www.youtube.com/watch?v=KhbM0BQ3_ew&t=71s
 https://www.youtube.com/watch?v=o2tJtrPdXxc
 
+¿Cómo crear y eliminar usuarios en Ubuntu? y ¿quién es el Root?
+https://www.youtube.com/watch?v=pEt77FW50Wo
 
 
 
@@ -67,6 +97,26 @@ https://www.youtube.com/watch?v=OMI6msNaFtw
 CURSO COMPLETO UBUNTU:
 https://www.youtube.com/watch?v=JTUemZQF3lI&list=PLn5IkU1ZhgibJ7Ld3ZvvZdMmM8F0U0vQE&index=18
 
+
+
+
+
+
+
+```
+
+
+
+```
+
+Sources:
+
+
+VDO Linux Compresión y Deduplicación en Linux
+https://www.youtube.com/watch?v=way7KBKOTJ0
+
+Proteger GRUB con Contraseña
+https://www.youtube.com/watch?v=n78i4PuGjjM
 
 
 
